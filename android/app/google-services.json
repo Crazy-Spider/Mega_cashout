@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "864564293976",
+    "project_id": "mega-cashout-d28dc",
+    "storage_bucket": "mega-cashout-d28dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864564293976:android:fb64d6b883492247bcf52d",
+        "android_client_info": {
+          "package_name": "com.dekraftsman.megacashout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864564293976-m6fmag206607tmsuhuignh1ve8dcok7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf5wDLiTO3ruiGAe8HMC5tjwd52HjGFV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864564293976-m6fmag206607tmsuhuignh1ve8dcok7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864564293976:android:ee49b97b4e6291bfbcf52d",
+        "android_client_info": {
+          "package_name": "com.joez.mega_cashout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864564293976-m6fmag206607tmsuhuignh1ve8dcok7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf5wDLiTO3ruiGAe8HMC5tjwd52HjGFV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864564293976-m6fmag206607tmsuhuignh1ve8dcok7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
